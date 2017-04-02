@@ -15,4 +15,5 @@ Both dataset are re-sampled to 1mm * 1 mm * 1 mm.
 
 
 In the figures, the legends correspond to the quantized nodule diameter (step=4 mm).
-Example ![figure](https://github.com/mravendi/DSB2017/blob/master/figs/90d6324d7006a3d142ee1884279dcf9b.jpg)
+![fig.1](https://github.com/mravendi/DSB2017/blob/master/figs/90d6324d7006a3d142ee1884279dcf9b.jpg)
+![fig.2](https://github.com/mravendi/DSB2017/blob/master/figs/90e5f4780b2f05136ff5f776a5cbc2af.jpg)

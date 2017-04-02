@@ -14,5 +14,5 @@ quantized diameter as the output. After training, we deploy the 3D CNN on chunks
 Both dataset are re-sampled to 1mm * 1 mm * 1 mm. 
 
 
-As an example, in the below figure, the legends corresponds to the quantized nodule diameter (step=4 mm).
+In the figures, the legends correspond to the quantized nodule diameter (step=4 mm).
 Example ![figure](https://github.com/mravendi/DSB2017/blob/master/figs/90d6324d7006a3d142ee1884279dcf9b.jpg)

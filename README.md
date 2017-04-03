@@ -22,7 +22,7 @@ For instance,
 - 8 mm < nodule size < 12 mm is shown with legned 2.
 - 12 mm < nodule size < 16 mm is shown with legned 3.
 - 16 mm < nodule size < 20 mm is shown with legned 4.
-![fig.1](https://github.com/mravendi/DSB2017/blob/master/figs/90d6324d7006a3d142ee1884279dcf9b.jpg)
-![fig.2](https://github.com/mravendi/DSB2017/blob/master/figs/90e5f4780b2f05136ff5f776a5cbc2af.jpg)
-![fig.3](https://github.com/mravendi/DSB2017/blob/master/figs/8ed68f2dbf103a4bc0fd8708d8c1ac93.jpg)
-![fig.4](https://github.com/mravendi/DSB2017/blob/master/figs/7faa456389e1ffde464819d0b1360188.jpg)
+![fig.1]()
+![fig.2]()
+![fig.3]()
+![fig.4]()
